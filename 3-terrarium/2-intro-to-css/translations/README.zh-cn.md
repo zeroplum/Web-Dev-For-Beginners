@@ -1,4 +1,4 @@
-# 花艺瓶项目 Part 1： CSS 简介
+# 花艺瓶项目 Part 2： CSS 简介
 
 ![Introduction to CSS](../../../sketchnotes/webdev101-css.png)
 > 由 [Tomomi Imura](https://twitter.com/girlie_mac) 绘制

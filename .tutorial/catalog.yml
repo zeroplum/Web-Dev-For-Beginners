@@ -1,0 +1,165 @@
+# YAML 配置文件示例
+
+# 课程目录配置
+
+chapters:  #  需要为每个章节指定章节名、章节内容（markdown 文件地址）、课程视频地址、以及项目内的练习代码地址；
+  - title: "开发课程介绍"
+    article: "../translations/README.zh-cn.md"
+    video: "//player.bilibili.com/player.html?aid=1152628917&bvid=BV1aZ421B7Dj&cid=1490434555&p=1"
+    code: ""
+    run:
+  - title: "入门篇概要"
+    article: "../1-getting-started-lessons/translations/README.zh-cn.md"
+    video: ""
+    code: ""
+    run:
+  - title: "1、编程语言概述与工具介绍"
+    article: "../1-getting-started-lessons/1-intro-to-programming-languages/translations/README.zh-cn.md"
+    video: ""
+    code: ""
+    run:
+  - title: "2、GitHub 介绍"
+    article: "../1-getting-started-lessons/2-github-basics/translations/README.zh-cn.md"
+    video: ""
+    code: ""
+    run:
+  - title: "3、创造无障碍网页"
+    article: "../1-getting-started-lessons/3-accessibility/translations/README.zh-cn.md"
+    video: ""
+    code: ""
+    run:
+  - title: "JS基础篇概要"
+    article: "../2-js-basics/translations/README.zh-cn.md"
+    video: ""
+    code: ""
+    run:
+  - title: "1、JavaScript 基础 - 变量和数据类型"
+    article: "../2-js-basics/1-data-types/translations/README.zh-cn.md"
+    video: ""
+    code: ""
+    run:
+  - title: "2、JavaScript 基础 - 方法和函数"
+    article: "../2-js-basics/2-functions-methods/translations/README.zh-cn.md"
+    video: ""
+    code: ""
+    run:
+  - title: "3、JavaScript 基础 - 做出决定"
+    article: "../2-js-basics/3-making-decisions/translations/README.zh-cn.md"
+    video: ""
+    code: ""
+    run:
+  - title: "4、JavaScript 基础 - 数组和循环"
+    article: "../2-js-basics/4-arrays-loops/translations/README.zh-cn.md"
+    video: ""
+    code: ""
+    run:
+  - title: "花艺瓶项目实践"
+    article: "../3-terrarium/translations/README.zh-cn.md"
+    video: ""
+    code: ""
+    run:
+  - title: "1、花艺瓶项目 Part 1 - HTML 简介"
+    article: "../3-terrarium/1-intro-to-html/translations/README.zh-cn.md"
+    video: ""
+    code: ""
+    run:
+  - title: "2、花艺瓶项目 Part 2 - CSS 简介"
+    article: "../3-terrarium/2-intro-to-css/translations/README.zh-cn.md"
+    video: ""
+    code: ""
+    run:
+  - title: "3、花艺瓶项目 Part 3 - DOM 元素控制与闭包"
+    article: "../3-terrarium/3-intro-to-DOM-and-closures/translations/README.zh-cn.md"
+    video: ""
+    code: ""
+    run:
+  - title: "事件驱动式编程 ── 如何建立一款打字游戏"
+    article: "../4-typing-game/translations/README.zh-cn.md"
+    video: ""
+    code: ""
+    run:
+  - title: "实践：使用事件建立打字游戏"
+    article: "../4-typing-game/typing-game/translations/README.zh-cn.md"
+    video: ""
+    code: ""
+    run:
+  - title: "构建浏览器插件实践"
+    article: "../5-browser-extension/translations/README.zh-cn.md"
+    video: ""
+    code: ""
+    run:
+  - title: "1、浏览器扩充功能专案 Part 1：关于浏览器"
+    article: "../5-browser-extension/1-about-browsers/translations/README.zh-cn.md"
+    video: ""
+    code: ""
+    run:
+  - title: "2、浏览器扩充功能专案 Part 2：呼叫 API，使用 Local Storage"
+    article: "../5-browser-extension/2-forms-browsers-local-storage/translations/README.zh-cn.md"
+    video: ""
+    code: ""
+    run:
+  - title: "3、浏览器扩充功能专案 Part 3：学习背景工作与效能"
+    article: "../5-browser-extension/3-background-tasks-and-performance/translations/README.zh-cn.md"
+    video: ""
+    code: ""
+    run:
+  - title: "如何构建一款太空游戏"
+    article: "../6-space-game/translations/README.zh-cn.md"
+    video: ""
+    code: ""
+    run:
+  - title: "1、建立太空游戏 Part 1：简介"
+    article: "../6-space-game/1-introduction/translations/README.zh-cn.md"
+    video: ""
+    code: ""
+    run:
+  - title: "2、建立太空游戏 Part 2：在画布上绘制英雄与怪物"
+    article: "../6-space-game/2-drawing-to-canvas/translations/README.zh-cn.md"
+    video: ""
+    code: ""
+    run:
+  - title: "3、建立太空游戏 Part 3：加入动作"
+    article: "../6-space-game/3-moving-elements-around/translations/README.zh-cn.md"
+    video: ""
+    code: ""
+    run:
+  - title: "4、建立太空游戏 Part 4：加入雷射与碰撞侦测"
+    article: "../6-space-game/4-collision-detection/translations/README.zh-cn.md"
+    video: ""
+    code: ""
+    run:
+  - title: "5、建立太空游戏 Part 5：分数与生命数"
+    article: "../6-space-game/5-keeping-score/translations/README.zh-cn.md"
+    video: ""
+    code: ""
+    run:
+  - title: "6、建立太空游戏 Part 6：结束与重来"
+    article: "../6-space-game/6-end-condition/translations/README.zh-cn.md"
+    video: ""
+    code: ""
+    run:
+  - title: "如何建立一个虚构的银行"
+    article: "../7-bank-project/translations/README.zh-cn.md"
+    video: ""
+    code: ""
+    run:
+  - title: "1、建立银行网页应用程式 Part 1：HTML 模板与网页路由"
+    article: "../7-bank-project/1-template-route/translations/README.zh-cn.md"
+    video: ""
+    code: ""
+    run:
+  - title: "2、建立银行网页应用程式 Part 2：登入与注册表单"
+    article: "../7-bank-project/2-forms/translations/README.zh-cn.md"
+    video: ""
+    code: ""
+    run:
+  - title: "3、建立银行网页应用程式 Part 3：取得并使用资料"
+    article: "../7-bank-project/3-data/translations/README.zh-cn.md"
+    video: ""
+    code: ""
+    run:
+  - title: "4、建立银行网页应用程式 Part 4： 状态控管的概念"
+    article: "../7-bank-project/4-state-management/translations/README.zh-cn.md"
+    video: ""
+    code: ""
+    run:
